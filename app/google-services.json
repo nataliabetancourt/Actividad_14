@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819005748686",
+    "project_id": "eco-actividad14",
+    "storage_bucket": "eco-actividad14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819005748686:android:8e90d17f6119759a47a79f",
+        "android_client_info": {
+          "package_name": "com.example.actividad14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819005748686-q2e66soqipe53tkn6unsl91avfd6d4fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40la2Adi_g1TOpR6I9NeaLdxD0bLePUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819005748686-q2e66soqipe53tkn6unsl91avfd6d4fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
